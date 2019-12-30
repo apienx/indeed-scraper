@@ -45,6 +45,18 @@ Apify.main(async () => {
         case 'es':
             countryUrl = 'https://www.indeed.es';
             break; 
+        case 'nl':
+            countryUrl = 'https://www.indeed.nl';
+            break; 
+        case 'ch':
+            countryUrl = 'https://www.indeed.ch';
+            break; 
+        case 'ae':
+            countryUrl = 'https://www.indeed.ae';
+            break;
+        case 'pt':
+            countryUrl = 'https://www.indeed.pt';
+            break;  
         case 'in':
             countryUrl = 'https://www.indeed.co.in';
             break; 
